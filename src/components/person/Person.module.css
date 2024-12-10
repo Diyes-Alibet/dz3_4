@@ -1,0 +1,11 @@
+.person {
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid pink;
+}
+
+.person h3 {
+    font-size: 22px;
+    color: black;
+}

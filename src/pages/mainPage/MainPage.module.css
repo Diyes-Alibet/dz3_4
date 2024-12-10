@@ -1,0 +1,9 @@
+.MainPage{
+background-color: red;
+    padding: 30px;
+}
+.title {
+    font-size: 24px;
+    color: darkred;
+    margin-top: 20px;
+}
